@@ -1,11 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat+Alternates:900');
-
 * {
   box-sizing: border-box;
 }
 
 .box {
-  color: white;
+  color: black;
   font-size: 100px;
   font-family: 'Montserrat Alternates', sans-serif;
   text-align: center;
@@ -13,6 +12,7 @@
 }
 
 /* Colours for each box */
+
 .box1 {
   background: #eccc68;
 }
